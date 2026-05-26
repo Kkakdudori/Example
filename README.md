@@ -1,8 +1,8 @@
-# Study Notes
+ï»¿# Study Notes
 1. CSharp
-   1. º¯¼ö
-   1. ÀÚ·áÇü
-   1. Å©±â¿Í ¹üÀ§
+   1. ë³€ìˆ˜
+   1. ìë£Œí˜•
+   1. í¬ê¸°ì™€ ë²”ìœ„
 2. Unity
     - Editor
         - Transform
@@ -22,4 +22,4 @@
 | --- | --- |
 | 1 | Unity|
 | 2 | C# |
-| 3 | Game |
+| 3 | Game |    
