@@ -1,26 +1,56 @@
-﻿# Study Notes
+﻿﻿# Study Notes
 1. CSharp
-	1. 변수
-	1. 자료형
-	1. 크기와 범위
+    1. Variables
+    1. Types
+    1. 크기와 범위
 2. Unity
-    - Editor
-        - Transform
-    - 3D Graphics
+    - _Editor_
+        - **Transform**
 3. Mathmatics
-	- Vector
-    	- Position
-    	- Direction
-    	- Dot Product.
-4. Images
-    - External
-        - ![GitHub Icon.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/330px-Unity_Technologies_logo.svg.png)
-        - ![PhysX Logo.](./Images/Logo.png)
-5. Table
+    - Vector
 
-| ID | Name |
-| --- | --- |
-| 1 | Unity|
-| 2 | C# |
-| 3 | Game |
+![Unity Logo.](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/330px-Unity_Technologies_logo.svg.png)
+![C# Logo.](./Images/Logo.png)
+
+
+>Markdown
+
+| ID | Name | Release |
+| --- | --- | --- |
+| 1 | Unity | 2005.06.01 |
+| 2 | C# | 2000.01.01 |
+| 3 | Visual Studio | 1997.11.19 |
+
+>HTML Table
+<table>
+    <tr>
+        <td>ID</td>
+        <td>Name</td>
+        <td>Number</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Unity</td>
+        <td>10</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>C#</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Visual Sutdio/td>
+        <td>30</td>
+    </tr>
+</table>
+
+>Code Block
+```csharp
+using System;
+if(test == true)
+{
+    Debug.Log("Test");
+}
+```
      
